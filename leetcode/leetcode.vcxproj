@@ -149,8 +149,15 @@
     <ClCompile Include="..\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\src\122MaxProfit.h" />
+    <ClInclude Include="..\src\189RotateArray.h" />
     <ClInclude Include="..\src\1TwoSum.h" />
     <ClInclude Include="..\src\2TwoAdd.h" />
+    <ClInclude Include="..\src\intersect.h" />
+    <ClInclude Include="..\src\InverseString.h" />
+    <ClInclude Include="..\src\isPalindrome.h" />
+    <ClInclude Include="..\src\isValidSudoku.h" />
+    <ClInclude Include="..\src\PlusOne.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

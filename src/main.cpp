@@ -1,9 +1,14 @@
 
 #include "1TwoSum.h"
-#include "2TwoAdd.h"
+#include "122MaxProfit.h"
+#include "189RotateArray.h"
+#include "intersect.h"
+#include "PlusOne.h"
+#include "isValidSudoku.h"
+#include "InverseString.h"
+#include "isPalindrome.h"
 int main()
 {
-	Test1TwoSum();
-	Test2TwoAdd();
+	TestIsPalindromeg();
 	return 0;
 }
